@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / env files
+.env
+*.key
+
+# Data (uncomment if you do NOT want to commit the CSV)
+# data/
+# *.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Logs
+*.log
